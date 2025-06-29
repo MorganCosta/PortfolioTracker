@@ -1,0 +1,156 @@
+[
+  {
+    "symbol": "COLA.NE",
+    "name": "Coca-Cola Co",
+    "currency": "CAD",
+    "exchangeFullName": "CBOE CA",
+    "exchange": "NEO"
+  },
+  {
+    "symbol": "EEE.AT",
+    "name": "Coca-Cola HBC AG",
+    "currency": "EUR",
+    "exchangeFullName": "Athens Stock Exchange",
+    "exchange": "ATH"
+  },
+  {
+    "symbol": "CCH.L",
+    "name": "Coca-Cola HBC AG",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "CCHGY",
+    "name": "Coca-Cola HBC AG",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "CCHBF",
+    "name": "Coca-Cola HBC AG",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "COKE",
+    "name": "Coca-Cola Consolidated, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "0I0T.L",
+    "name": "Coca-Cola Consolidated, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "KOFUBL.MX",
+    "name": "Coca-Cola FEMSA, S.A.B. de C.V.",
+    "currency": "MXN",
+    "exchangeFullName": "Mexican Stock Exchange",
+    "exchange": "MEX"
+  },
+  {
+    "symbol": "KOF",
+    "name": "Coca-Cola FEMSA, S.A.B. de C.V.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "COCSF",
+    "name": "Coca-Cola FEMSA, S.A.B. de C.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "CCOLA.IS",
+    "name": "Coca-Cola Içecek Anonim Sirketi",
+    "currency": "TRY",
+    "exchangeFullName": "Istanbul Stock Exchange",
+    "exchange": "IST"
+  },
+  {
+    "symbol": "CCEP.L",
+    "name": "Coca-Cola Europacific Partners PLC",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "CCEP.AS",
+    "name": "Coca-Cola Europacific Partners PLC",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "CCEP",
+    "name": "Coca-Cola Europacific Partners PLC",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CCOJY",
+    "name": "Coca-Cola Bottlers Japan Holdings Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "CCOJF",
+    "name": "Coca-Cola Bottlers Japan Holdings Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "2579.T",
+    "name": "Coca-Cola Bottlers Japan Holdings Inc.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "KO.SW",
+    "name": "The Coca-Cola Company",
+    "currency": "USD",
+    "exchangeFullName": "Swiss Exchange",
+    "exchange": "SIX"
+  },
+  {
+    "symbol": "KO.BA",
+    "name": "The Coca-Cola Company",
+    "currency": "ARS",
+    "exchangeFullName": "Buenos Aires Stock Exchange",
+    "exchange": "BUE"
+  },
+  {
+    "symbol": "KO",
+    "name": "The Coca-Cola Company",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CCC3.DE",
+    "name": "The Coca-Cola Company",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "2573.T",
+    "name": "Hokkaido Coca-Cola Bottling Co.,Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  }
+]
