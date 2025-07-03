@@ -6,6 +6,6 @@ class Asset:
 
 
 class Portfolio:
-    def __init__(self, assets: Asset ):
+    def __init__(self, assets: list[Asset] ):
         self.assets = assets
         
