@@ -1,0 +1,520 @@
+[
+    {
+        "symbol": "URTH",
+        "name": "iShares MSCI World ETF",
+        "currency": "USD",
+        "exchangeFullName": "New York Stock Exchange Arca",
+        "exchange": "AMEX"
+    },
+    {
+        "symbol": "XWD.TO",
+        "name": "iShares MSCI World Index ETF",
+        "currency": "CAD",
+        "exchangeFullName": "Toronto Stock Exchange",
+        "exchange": "TSX"
+    },
+    {
+        "symbol": "IWRD.L",
+        "name": "iShares MSCI World UCITS ETF",
+        "currency": "GBp",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "IWRD.AS",
+        "name": "iShares MSCI World UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "IQQW.DE",
+        "name": "iShares MSCI World UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "IDWR.L",
+        "name": "iShares MSCI World UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "WHCA.AS",
+        "name": "iShares MSCI World Health Care",
+        "currency": "EUR",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "IE00BMZ17W23.SG",
+        "name": "iShares MSCI World SRI UCITS ET",
+        "currency": "EUR",
+        "exchangeFullName": "Stuttgart Stock Exchange",
+        "exchange": "STU"
+    },
+    {
+        "symbol": "IE00BDZZTM54.SG",
+        "name": "iShares MSCI World SRI UCITS ET",
+        "currency": "EUR",
+        "exchangeFullName": "Stuttgart Stock Exchange",
+        "exchange": "STU"
+    },
+    {
+        "symbol": "WSML",
+        "name": "iShares MSCI World Small-Cap ETF",
+        "currency": "USD",
+        "exchangeFullName": "NASDAQ Global Select",
+        "exchange": "NASDAQ"
+    },
+    {
+        "symbol": "SUWU.SW",
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "SUWS.L",
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "SUWG.L",
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "currency": "GBP",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "SESW.SW",
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "SCWS.SW",
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "currency": "CHF",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "2B7J.DE",
+        "name": "iShares MSCI World SRI UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "ISWD.SW",
+        "name": "iShares MSCI World Islamic UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "ISWD.L",
+        "name": "iShares MSCI World Islamic UCITS ETF",
+        "currency": "GBp",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "ISDW.L",
+        "name": "iShares MSCI World Islamic UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "WPEA.PA",
+        "name": "iShares MSCI World Swap PEA UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Euronext Paris",
+        "exchange": "PAR"
+    },
+    {
+        "symbol": "WSML.L",
+        "name": "iShares MSCI World Small Cap UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "WLDS.L",
+        "name": "iShares MSCI World Small Cap UCITS ETF",
+        "currency": "GBP",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "IUSN.DE",
+        "name": "iShares MSCI World Small Cap UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "SDWD.L",
+        "name": "iShares MSCI World ESG Screened UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "S6DW.DE",
+        "name": "iShares MSCI World ESG Screened UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "EMND.DE",
+        "name": "iShares MSCI World ESG Enhanced UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "EGMW.L",
+        "name": "iShares MSCI World ESG Enhanced UCITS ETF",
+        "currency": "GBP",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "EEWG.L",
+        "name": "iShares MSCI World ESG Enhanced UCITS ETF",
+        "currency": "GBP",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "EEWD.L",
+        "name": "iShares MSCI World ESG Enhanced UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "EDMW.DE",
+        "name": "iShares MSCI World ESG Enhanced UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WENS.AS",
+        "name": "iShares MSCI World Energy Sector UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "SUSW.L",
+        "name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+        "currency": "EUR",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "5MVW.F",
+        "name": "iShares MSCI World Energy Sector UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Frankfurt Stock Exchange",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "5MVW.DE",
+        "name": "iShares MSCI World Energy Sector UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "2B7K.DE",
+        "name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "IWDC.SW",
+        "name": "iShares MSCI World CHF Hedged UCITS ETF (Acc)",
+        "currency": "CHF",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "IE000H1H16W5.SG",
+        "name": "iShares MSCI World Value Factor ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Stuttgart Stock Exchange",
+        "exchange": "STU"
+    },
+    {
+        "symbol": "CBUI.DE",
+        "name": "iShares MSCI World Value Factor ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WENE.AS",
+        "name": "iShares MSCI World Energy Sector ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "IWQE.MI",
+        "name": "iShares MSCI World Quality Factor ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Italian Stock Exchange",
+        "exchange": "MIL"
+    },
+    {
+        "symbol": "IE000L5NW549.SG",
+        "name": "iShares MSCI World Momentum Factor ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Stuttgart Stock Exchange",
+        "exchange": "STU"
+    },
+    {
+        "symbol": "CBUH.DE",
+        "name": "iShares MSCI World Momentum Factor ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WQDV.L",
+        "name": "iShares MSCI World Quality Dividend ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "WQDS.L",
+        "name": "iShares MSCI World Quality Dividend ESG UCITS ETF",
+        "currency": "GBp",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "WQDA.AS",
+        "name": "iShares MSCI World Quality Dividend ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "WMTS.AS",
+        "name": "iShares MSCI World Materials Sector ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "QDVW.DE",
+        "name": "iShares MSCI World Quality Dividend ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WPAD.AS",
+        "name": "iShares MSCI World Paris-Aligned Climate UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "SGWS.SW",
+        "name": "iShares MSCI World SRI UCITS ETF GBP Hedged (Dist)",
+        "currency": "GBP",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "SGWS.L",
+        "name": "iShares MSCI World SRI UCITS ETF GBP Hedged (Dist)",
+        "currency": "GBP",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "WINS.AS",
+        "name": "iShares MSCI World Industrials Sector ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "SNAW.DE",
+        "name": "iShares MSCI World ESG Screened UCITS ETF USD (Acc)",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "SAWD.L",
+        "name": "iShares MSCI World ESG Screened UCITS ETF USD (Acc)",
+        "currency": "USD",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "EWSA.AS",
+        "name": "iShares MSCI World Small Cap ESG Enhanced UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "CBUG.DE",
+        "name": "iShares MSCI World Small Cap ESG Enhanced UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WCSS.AS",
+        "name": "iShares MSCI World Consumer Staples Sector UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "3SUE.F",
+        "name": "iShares MSCI World Consumer Staples Sector UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Frankfurt Stock Exchange",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "3SUE.DE",
+        "name": "iShares MSCI World Consumer Staples Sector UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WHCS.AS",
+        "name": "iShares MSCI World Health Care Sector UCITS ETF USD Inc",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "CBUF.F",
+        "name": "iShares MSCI World Health Care Sector UCITS ETF USD Inc",
+        "currency": "EUR",
+        "exchangeFullName": "Frankfurt Stock Exchange",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "CBUF.DE",
+        "name": "iShares MSCI World Health Care Sector UCITS ETF USD Inc",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WCDS.AS",
+        "name": "iShares MSCI World Consumer Discretionary Sector UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "36BB.F",
+        "name": "iShares MSCI World Consumer Discretionary Sector UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Frankfurt Stock Exchange",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "36BB.DE",
+        "name": "iShares MSCI World Consumer Discretionary Sector UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WITS.AS",
+        "name": "iShares MSCI World Information Technology Sector ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "WCMS.AS",
+        "name": "iShares MSCI World Communication Services Sector ESG UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "AYEW.DE",
+        "name": "iShares MSCI World Information Technology Sector ESG UCITS ETF",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "IWDE.SW",
+        "name": "iShares V PLC - iShares MSCI World EUR Hedged UCITS ETF (Acc)",
+        "currency": "EUR",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "IWDE.L",
+        "name": "iShares V PLC - iShares MSCI World EUR Hedged UCITS ETF (Acc)",
+        "currency": "EUR",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "IGWD.L",
+        "name": "iShares V PLC - iShares MSCI World GBP Hedged UCITS ETF (Acc)",
+        "currency": "GBp",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "IBCH.DE",
+        "name": "iShares V PLC - iShares MSCI World EUR Hedged UCITS ETF (Acc)",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "WFNS.AS",
+        "name": "Ishares V PLC - Ishares Msci World Financials Sector UCITS ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    },
+    {
+        "symbol": "WPAB.SW",
+        "name": "Ishares III Plc - Ishares Msci World Paris-Aligned Climate Ucits ETF",
+        "currency": "USD",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "WPAB.AS",
+        "name": "Ishares III Plc - Ishares Msci World Paris-Aligned Climate Ucits ETF",
+        "currency": "USD",
+        "exchangeFullName": "Euronext Amsterdam",
+        "exchange": "AMS"
+    }
+]

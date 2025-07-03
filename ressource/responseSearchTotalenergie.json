@@ -1,0 +1,58 @@
+[
+    {
+        "symbol": "TTFNF",
+        "name": "TotalEnergies SE",
+        "currency": "USD",
+        "exchangeFullName": "Other OTC",
+        "exchange": "OTC"
+    },
+    {
+        "symbol": "TTE.PA",
+        "name": "TotalEnergies SE",
+        "currency": "EUR",
+        "exchangeFullName": "Euronext Paris",
+        "exchange": "PAR"
+    },
+    {
+        "symbol": "TTE.L",
+        "name": "TotalEnergies SE",
+        "currency": "EUR",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    },
+    {
+        "symbol": "TTE",
+        "name": "TotalEnergies SE",
+        "currency": "USD",
+        "exchangeFullName": "New York Stock Exchange",
+        "exchange": "NYSE"
+    },
+    {
+        "symbol": "TOTB.DE",
+        "name": "TotalEnergies SE",
+        "currency": "EUR",
+        "exchangeFullName": "Deutsche Börse",
+        "exchange": "XETRA"
+    },
+    {
+        "symbol": "FP.SW",
+        "name": "TotalEnergies SE",
+        "currency": "CHF",
+        "exchangeFullName": "Swiss Exchange",
+        "exchange": "SIX"
+    },
+    {
+        "symbol": "EC.PA",
+        "name": "TotalEnergies EP Gabon S.A.",
+        "currency": "EUR",
+        "exchangeFullName": "Euronext Paris",
+        "exchange": "PAR"
+    },
+    {
+        "symbol": "0IUV.L",
+        "name": "TotalEnergies EP Gabon S.A.",
+        "currency": "EUR",
+        "exchangeFullName": "London Stock Exchange",
+        "exchange": "LSE"
+    }
+]
