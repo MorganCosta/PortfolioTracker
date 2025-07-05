@@ -13,6 +13,8 @@ class FMPclient:
         response.raise_for_status()
 
         data = response.json()
+        print(f"DEBUG data: {data}")
+
         if not data or "price" not in data[0]:
             raise ValueError(f"{symbol} as not be find or are no price")
         
