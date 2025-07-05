@@ -1,5 +1,6 @@
 import pytest
-from services.valuation import calculate_profit
+from services.valuation import calculate_profit, ValuationService
+from domain.models import Asset
 
 def test_calculate_profit_positive():
     pr_bought = 100
@@ -19,3 +20,15 @@ def test_calculate_profit_negative():
 
     assert result == -900
 
+class DummyMarketDataProvider:
+    def get_current_price(sefl, symbol: str) -> float:
+        return 200
+    
+def test_clalulate_profil():
+    provider = DummyMarketDataProvider()
+    service = ValuationService(provider)
+    stock = Asset("COKE", 100.0, 10)
+
+    result = service.calculate_profit(stock)
+
+    assert result == (200 - 100) * 10
