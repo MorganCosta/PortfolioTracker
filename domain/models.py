@@ -10,7 +10,7 @@ class Portfolio:
         self.assets = assets
         
 
-class UnknowSymbol(Exception):
+class UnknownSymbol(Exception):
     def __init__(self, symbol: str):
         self.symbol = symbol
         super.__init__(f"Unknow symbol: {symbol}")

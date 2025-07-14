@@ -1,5 +1,5 @@
 import pytest
-from domain.models import Asset, UnknowSymbol
+from domain.models import Asset, UnknownSymbol
 from use_cases.calculate_portfolio import CalculatePortfolio
 
 class DummyMarketDataProvider:
@@ -11,7 +11,7 @@ class DummyMarketDataProvider:
 
     def get_current_price(self, symbol: str) -> float:
         if symbol not in self.assets:
-            raise UnknowSymbol(symbol)
+            raise UnknownSymbol(symbol)
         return self.assets[symbol]
     
 class DummyPortfolioRepository:
