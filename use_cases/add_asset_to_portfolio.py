@@ -13,4 +13,4 @@ class AddAssetToPortfolio:
         except UnknownSymbol:
             raise ValueError(f"Unknown symbol: {asset.symbol}")
         
-        self.repo.add(asset)
+        self.repo.save(asset)

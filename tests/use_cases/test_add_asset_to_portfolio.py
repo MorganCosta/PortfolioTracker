@@ -1,18 +1,20 @@
 import pytest
 from domain.models import Asset
 from use_cases.add_asset_to_portfolio import AddAssetToPortfolio
+from domain.portfolio_repository import PortfolioRepository
+from infrastructure.market_data_provider import MarketDataProvider
 
-class DummyRepo:
+class DummyRepo(PortfolioRepository):
     def __init__(self):
         self.assets = []
 
-    def add(self, asset):
+    def save(self, asset):
         self.assets.append(asset)
 
     def get(self):
         return self.assets
 
-class DummyProvider:
+class DummyProvider(MarketDataProvider):
     def get_current_price(self, symbol):
         return 100.0
 
